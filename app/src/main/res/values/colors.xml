@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright 2018 Amazon.com, Inc. and its affiliates. All Rights Reserved.
+
+Licensed under the Amazon Software License (the "License").
+You may not use this file except in compliance with the License.
+A copy of the License is located at
+
+  http://aws.amazon.com/asl/
+
+or in the "license" file accompanying this file. This file is distributed
+on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either
+express or implied. See the License for the specific language governing
+permissions and limitations under the License.
+-->
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="theme_default_colorPrimary">#008577</color>
+    <color name="theme_theme1_colorPrimary">#2196F3</color>
+    <color name="theme_theme2_colorPrimary">#673AB7</color>
+    <color name="theme_theme3_colorPrimary">#F44336</color>
+
+</resources>

@@ -1,0 +1,13 @@
+query GetSettings {
+  getSettings {
+    theme
+    displayName
+  }
+}
+
+mutation StoreSettings($settings: SettingsInput!) {
+  storeSettings(settings: $settings) {
+    theme
+    displayName
+  }
+}
