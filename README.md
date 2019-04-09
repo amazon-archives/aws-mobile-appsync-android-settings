@@ -4,4 +4,4 @@ An Android quickstart app demonstrating user settings sync in the cloud using AW
 
 ## License
 
-This library is licensed under the Amazon Software License.
+This library is licensed under the MIT-0.
