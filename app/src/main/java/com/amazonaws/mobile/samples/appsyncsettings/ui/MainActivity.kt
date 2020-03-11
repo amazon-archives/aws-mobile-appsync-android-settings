@@ -4,12 +4,12 @@
  */
 package com.amazonaws.mobile.samples.appsyncsettings.ui
 
-import android.arch.lifecycle.Observer
+import androidx.lifecycle.Observer
 import android.content.Intent
 import android.graphics.drawable.ColorDrawable
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.support.v4.view.GravityCompat
+import androidx.core.view.GravityCompat
 import android.view.MenuItem
 import com.amazonaws.mobile.samples.appsyncsettings.R
 import com.amazonaws.mobile.samples.appsyncsettings.models.Theme

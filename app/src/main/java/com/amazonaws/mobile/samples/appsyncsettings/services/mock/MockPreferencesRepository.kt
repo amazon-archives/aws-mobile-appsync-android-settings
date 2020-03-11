@@ -4,8 +4,8 @@
  */
 package com.amazonaws.mobile.samples.appsyncsettings.services.mock
 
-import android.arch.lifecycle.LiveData
-import android.arch.lifecycle.MutableLiveData
+import androidx.lifecycle.LiveData
+import androidx.lifecycle.MutableLiveData
 import com.amazonaws.mobile.samples.appsyncsettings.models.Theme
 import com.amazonaws.mobile.samples.appsyncsettings.models.Themes
 import com.amazonaws.mobile.samples.appsyncsettings.services.interfaces.PreferencesRepository

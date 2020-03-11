@@ -4,8 +4,8 @@
  */
 package com.amazonaws.mobile.samples.appsyncsettings.viewmodels
 
-import android.arch.lifecycle.LiveData
-import android.arch.lifecycle.ViewModel
+import androidx.lifecycle.LiveData
+import androidx.lifecycle.ViewModel
 import com.amazonaws.mobile.samples.appsyncsettings.models.Theme
 import com.amazonaws.mobile.samples.appsyncsettings.services.interfaces.PreferencesRepository
 

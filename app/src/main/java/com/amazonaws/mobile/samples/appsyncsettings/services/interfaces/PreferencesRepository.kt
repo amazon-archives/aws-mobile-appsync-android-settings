@@ -4,7 +4,7 @@
  */
 package com.amazonaws.mobile.samples.appsyncsettings.services.interfaces
 
-import android.arch.lifecycle.LiveData
+import androidx.lifecycle.LiveData
 import com.amazonaws.mobile.samples.appsyncsettings.models.Theme
 
 /**
